@@ -1,4 +1,4 @@
-# Projet Projet NoSQL - Soutenance du 24 janvier 2019
+# Projet NoSQL - Soutenance du 24 janvier 2019
 
 # L'éxploration du système GDELT sur l'anée 2018
 
