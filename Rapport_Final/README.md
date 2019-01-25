@@ -10,4 +10,6 @@
 * Stéphane Mulard
 
 ## Contenu du dossier :
-* Soutenance-Gdelt-VF.pptx : Présentation Soutenance Gdelt
+* Présentation Soutenance Gdelt: Soutenance-Gdelt-VF.pptx
+* Zeppelin notebooks: Gdelt-AWS-VizuZep.json, Gdelt-AWS-S3-2Mongo.json
+* Script creétion index: index.mongoshell.js 
