@@ -11,5 +11,5 @@
 
 ## Contenu du dossier :
 * Présentation Soutenance Gdelt: Soutenance-Gdelt-VF.pptx
-* Zeppelin notebooks: Gdelt-AWS-VizuZep.json, Gdelt-AWS-S3-2Mongo.json
+* Zeppelin notebooks: Gdelt-AWS-VizuZep.json, Gdelt-AWS-S3-2Mongo.json, Visu_in_progress-3.json
 * Script creétion index: index.mongoshell.js 
