@@ -1,6 +1,6 @@
 # Projet NoSQL - Soutenance du 24 janvier 2019
 
-# L'éxploration du système GDELT sur l'anée 2018
+# L'exploration du système GDELT sur l'année 2018
 
 ## Groupe :
 * Karine Pétrus
